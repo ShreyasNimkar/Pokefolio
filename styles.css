@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body {
+    background-color: rgb(213, 100, 100);
+}
+
+#MyCanvas {
+    border: 2px solid green;
+
+}
